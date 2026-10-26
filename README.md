@@ -1,5 +1,5 @@
 # Bank Accounts & Transactions Analysis (SQL)
-Overtime and attrition: Employees who worked overtime had an attrition rate of 30.53%, compared with 10.44% among employees who did not work overtime. This indicates a strong association between overtime and attrition in the dataset, but does not establish causation.
+This project analyzes a relational banking dataset using SQL Server to explore customer accounts, branch balances, and banking transactions. The goal is to practice SQL querying techniques and extract meaningful insights from banking data.
 
 ## Dataset
 
