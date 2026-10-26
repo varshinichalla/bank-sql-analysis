@@ -1,6 +1,5 @@
 # Bank Accounts & Transactions Analysis (SQL)
-
-A SQL analysis of a relational banking dataset spanning 4 linked tables — Customers, Branches, Accounts, and Transactions — using SQL Server. Built to practice multi-table joins, aggregation across relationships, and outer joins.
+Overtime and attrition: Employees who worked overtime had an attrition rate of 30.53%, compared with 10.44% among employees who did not work overtime. This indicates a strong association between overtime and attrition in the dataset, but does not establish causation.
 
 ## Dataset
 
